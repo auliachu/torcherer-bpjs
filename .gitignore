@@ -1,1 +1,5 @@
 .venv/
+results/
+datas/sign-*
+*/__pycache__/*
+/__pycache__/*
